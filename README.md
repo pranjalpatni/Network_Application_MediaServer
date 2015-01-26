@@ -1,7 +1,7 @@
 # Network_Application_MediaServer
 This is a Java based team project of 4 people. There are 3 entities as follows:
 1- Renderer (where media will be played)- used VLC media player
-2- Media Server- Contains the database of the media. My database contained specific movies of Jackie Chan, Bruce Lee and a few other movies.
+2- Media Server- Contains the database of the media. The database contained specific movies of Jackie Chan, Bruce Lee and a few other movies.
 3- Controller- It can simply be a laptop or in our case, we made an android application.
 All the three entities will communicate together to perform the required job. The main objective of this project was the protocol designing part as to how the entities will communicate among themselves. We used TCP connection using socket programming.
 Here are the steps as to how the data would flow:
